@@ -1,0 +1,112 @@
+{
+    "name": {
+        "en": "Reference tour",
+        "fi": "Esimerkkikierros"
+    },
+    "introVideoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+    "mapUrl": "https://st.depositphotos.com/1172692/1379/v/950/depositphotos_13793704-stock-illustration-abstract-city-map-vector-illustration.jpg",
+    "feedbackUrl": "",
+    "groupId": "1",
+    "beaconInfos": [
+        {
+            "isExit": false,
+            "notification": {
+                "fi": "Lobby",
+                "en": "Aula"
+            },
+            "location": {
+                "fi": "Aula",
+                "en": "Lobby"
+            },
+            "id": 1,
+            "beaconId": "3091",
+            "videoDescription": {
+                "fi": "Video aulasta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur lobortis lectus vel sollicitudin.",
+                "en": "Video from lobby. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur lobortis lectus vel sollicitudin."
+            },
+            "introVideoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+            "conditions": [],
+            "mediaUrl": {
+                "imageUrl": "https://st.depositphotos.com/1172692/1379/v/950/depositphotos_13793704-stock-illustration-abstract-city-map-vector-illustration.jpg",
+                "videoUrl": "https://www.youtube.com/embed/ScMzIvxBSi4"
+            },
+            "imageDescription": {
+                "fi": "Donec mattis risus massa, ac tempor nisi suscipit et. Integer pharetra ac nisi eu congue. Fusce feugiat tortor at elit posuere, id scelerisque purus ultrices. In felis arcu, volutpat sit amet ligula nec, venenatis molestie quam. Duis ut pellentesque diam. Suspendisse potenti. Donec mattis nunc nec eros sodales, ut imperdiet ex tempus.",
+                "en": "Donec mattis risus massa, ac tempor nisi suscipit et. Integer pharetra ac nisi eu congue. Fusce feugiat tortor at elit posuere, id scelerisque purus ultrices. In felis arcu, volutpat sit amet ligula nec, venenatis molestie quam. Duis ut pellentesque diam. Suspendisse potenti. Donec mattis nunc nec eros sodales, ut imperdiet ex tempus"
+            },
+            "intro": {
+                "fi": "Tervetuloa aulaan!",
+                "en": "Welcome to the lobby!"
+            },
+            "buttonRedirectUrl": ""
+        },
+        {
+            "isExit": true,
+            "beaconId": "3091",
+            "introVideoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+            "conditions": [
+                1
+            ],
+            "mediaUrl": {
+                "imageUrl": "https://st.depositphotos.com/1172692/1379/v/950/depositphotos_13793704-stock-illustration-abstract-city-map-vector-illustration.jpg",
+                "videoUrl": "https://www.youtube.com/embed/ScMzIvxBSi4"
+            },
+            "location": {
+                "en": "Lobby and exit",
+                "fi": "Aula ja lähtö"
+            },
+            "videoDescription": {
+                "fi": "Video, heippa! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur lobortis lectus vel sollicitudin.",
+                "en": "Video, goodbye! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur lobortis lectus vel sollicitudin."
+            },
+            "intro": {
+                "fi": "Kiitos käynnistä!",
+                "en": "Thank you for visiting us!"
+            },
+            "buttonRedirectUrl": "",
+            "imageDescription": {
+                "en": "Donec mattis risus massa, ac tempor nisi suscipit et. Integer pharetra ac nisi eu congue. Fusce feugiat tortor at elit posuere, id scelerisque purus ultrices. In felis arcu, volutpat sit amet ligula nec, venenatis molestie quam. Duis ut pellentesque diam. Suspendisse potenti. Donec mattis nunc nec eros sodales, ut imperdiet ex tempus",
+                "fi": "Donec mattis risus massa, ac tempor nisi suscipit et. Integer pharetra ac nisi eu congue. Fusce feugiat tortor at elit posuere, id scelerisque purus ultrices. In felis arcu, volutpat sit amet ligula nec, venenatis molestie quam. Duis ut pellentesque diam. Suspendisse potenti. Donec mattis nunc nec eros sodales, ut imperdiet ex tempus."
+            },
+            "notification": {
+                "en": "Exit",
+                "fi": "Lähdössä"
+            },
+            "id": 2
+        },
+        {
+            "location": {
+                "en": "Second location",
+                "fi": "Toinen paikka"
+            },
+            "notification": {
+                "en": "Second location",
+                "fi": "Toinen paikka"
+            },
+            "mediaUrl": {
+                "videoUrl": "https://www.youtube.com/embed/ScMzIvxBSi4",
+                "imageUrl": "https://st.depositphotos.com/1172692/1379/v/950/depositphotos_13793704-stock-illustration-abstract-city-map-vector-illustration.jpg"
+            },
+            "videoDescription": {
+                "en": "Video. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur lobortis lectus vel sollicitudin.",
+                "fi": "Video. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur lobortis lectus vel sollicitudin."
+            },
+            "conditions": [
+                1
+            ],
+            "isExit": false,
+            "buttonRedirectUrl": "",
+            "beaconId": "8910",
+            "intro": {
+                "en": "Welcome to the second location!",
+                "fi": "Tervetuloa toiseen paikkaan!"
+            },
+            "id": 3,
+            "introVideoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+            "imageDescription": {
+                "en": "Donec mattis risus massa, ac tempor nisi suscipit et. Integer pharetra ac nisi eu congue. Fusce feugiat tortor at elit posuere, id scelerisque purus ultrices. In felis arcu, volutpat sit amet ligula nec, venenatis molestie quam. Duis ut pellentesque diam. Suspendisse potenti. Donec mattis nunc nec eros sodales, ut imperdiet ex tempus",
+                "fi": "Donec mattis risus massa, ac tempor nisi suscipit et. Integer pharetra ac nisi eu congue. Fusce feugiat tortor at elit posuere, id scelerisque purus ultrices. In felis arcu, volutpat sit amet ligula nec, venenatis molestie quam. Duis ut pellentesque diam. Suspendisse potenti. Donec mattis nunc nec eros sodales, ut imperdiet ex tempus"
+            }
+        }
+    ]
+}
